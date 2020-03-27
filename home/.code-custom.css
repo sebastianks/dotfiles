@@ -1,0 +1,26 @@
+.editor-actions,
+.title-actions,
+.editor .title,
+.decorationsOverviewRuler,
+.quick-input-list-entry-action-bar,
+.quick-input-list-separator,
+.quick-input-widget .scrollbar,
+.__CUSTOM_CSS_JS_INDICATOR_CLS,
+.scrollbar,
+.scroll-decoration {
+  display: none !important;
+}
+
+.quick-input-widget {
+  background-color: rgb(35, 40, 48) !important;
+  color: rgb(204, 204, 204) !important;
+  box-shadow: rgba(0, 0, 0, 0) 0px 5px 30px !important;
+  top: 260px !important;
+  width: 600px !important;
+  margin-left: -300px !important;
+}
+
+.input,
+.synthetic-focus {
+  outline-color: transparent !important;
+}
