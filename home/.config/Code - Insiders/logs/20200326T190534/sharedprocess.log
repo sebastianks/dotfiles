@@ -1,0 +1,8 @@
+[2020-03-26 19:05:38.207] [sharedprocess] [info] main {"machineId":"e1f4d84241a235d5b0e8f609ac0ba3b4be73dea9e902ccb8a23d0cff55b86f5f","windowId":2}
+[2020-03-26 19:06:18.237] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-26 19:45:34.817] [sharedprocess] [info] Installing extension: roscop.activefileinstatusbar
+[2020-03-26 19:45:35.658] [sharedprocess] [info] Downloaded extension: roscop.activefileinstatusbar /tmp/5e2826a1-0e89-46e6-93c7-15331f38d23a
+[2020-03-26 19:45:35.716] [sharedprocess] [info] Extracted extension to /home/sebastian/.vscode-insiders/extensions/.roscop.activefileinstatusbar-1.0.3: roscop.activefileinstatusbar
+[2020-03-26 19:45:35.717] [sharedprocess] [info] Renamed to /home/sebastian/.vscode-insiders/extensions/roscop.activefileinstatusbar-1.0.3
+[2020-03-26 19:45:35.717] [sharedprocess] [info] Installation completed. roscop.activefileinstatusbar
+[2020-03-26 19:45:35.725] [sharedprocess] [info] Extensions installed successfully: roscop.activefileinstatusbar

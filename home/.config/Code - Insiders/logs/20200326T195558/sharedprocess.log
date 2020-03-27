@@ -1,0 +1,8 @@
+[2020-03-26 19:56:01.531] [sharedprocess] [info] main {"machineId":"e1f4d84241a235d5b0e8f609ac0ba3b4be73dea9e902ccb8a23d0cff55b86f5f","windowId":2}
+[2020-03-26 19:56:41.561] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-03-26 20:08:56.256] [sharedprocess] [info] Installing extension: jhartell.vscode-line-endings
+[2020-03-26 20:08:57.166] [sharedprocess] [info] Downloaded extension: jhartell.vscode-line-endings /tmp/f28a6584-d509-4277-8651-68781f20f6e3
+[2020-03-26 20:08:57.183] [sharedprocess] [info] Extracted extension to /home/sebastian/.vscode-insiders/extensions/.jhartell.vscode-line-endings-0.2.0: jhartell.vscode-line-endings
+[2020-03-26 20:08:57.183] [sharedprocess] [info] Renamed to /home/sebastian/.vscode-insiders/extensions/jhartell.vscode-line-endings-0.2.0
+[2020-03-26 20:08:57.184] [sharedprocess] [info] Installation completed. jhartell.vscode-line-endings
+[2020-03-26 20:08:57.195] [sharedprocess] [info] Extensions installed successfully: jhartell.vscode-line-endings

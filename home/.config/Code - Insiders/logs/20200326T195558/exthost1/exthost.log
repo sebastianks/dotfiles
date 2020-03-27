@@ -1,0 +1,40 @@
+[2020-03-26 19:55:59.388] [exthost] [info] extension host started
+[2020-03-26 19:55:59.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:typescriptreact"}
+[2020-03-26 19:55:59.451] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/typescript-language-features/dist/extension
+[2020-03-26 19:55:59.475] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-03-26 19:55:59.475] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-03-26 19:55:59.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-03-26 19:55:59.477] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/emmet/dist/extension
+[2020-03-26 19:55:59.494] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-03-26 19:55:59.494] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/git/dist/main
+[2020-03-26 19:55:59.530] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-03-26 19:55:59.530] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/github-authentication/dist/extension.js
+[2020-03-26 19:55:59.533] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-03-26 19:55:59.533] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/merge-conflict/dist/extension
+[2020-03-26 19:55:59.535] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-03-26 19:55:59.535] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/search-result/dist/extension.js
+[2020-03-26 19:55:59.536] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-03-26 19:55:59.536] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/vscode-account/dist/extension.js
+[2020-03-26 19:55:59.538] [exthost] [info] ExtensionService#_doActivateExtension be5invis.vscode-custom-css {"startup":true,"extensionId":{"value":"be5invis.vscode-custom-css","_lower":"be5invis.vscode-custom-css"},"activationEvent":"*"}
+[2020-03-26 19:55:59.539] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/be5invis.vscode-custom-css-3.0.9/src/extension
+[2020-03-26 19:55:59.540] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.disableligatures {"startup":true,"extensionId":{"value":"CoenraadS.disableligatures","_lower":"coenraads.disableligatures"},"activationEvent":"*"}
+[2020-03-26 19:55:59.540] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/coenraads.disableligatures-0.0.8/out/src/extension
+[2020-03-26 19:55:59.541] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"extensionId":{"value":"dbaeumer.vscode-eslint","_lower":"dbaeumer.vscode-eslint"},"activationEvent":"*"}
+[2020-03-26 19:55:59.541] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/dbaeumer.vscode-eslint-2.1.1/client/out/extension
+[2020-03-26 19:55:59.551] [exthost] [info] ExtensionService#_doActivateExtension devine-davies.make-hidden {"startup":true,"extensionId":{"value":"devine-davies.make-hidden","_lower":"devine-davies.make-hidden"},"activationEvent":"*"}
+[2020-03-26 19:55:59.551] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/devine-davies.make-hidden-3.0.3/out/src/extension
+[2020-03-26 19:55:59.557] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"extensionId":{"value":"esbenp.prettier-vscode","_lower":"esbenp.prettier-vscode"},"activationEvent":"*"}
+[2020-03-26 19:55:59.557] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/esbenp.prettier-vscode-3.20.0/dist/extension
+[2020-03-26 19:55:59.613] [exthost] [info] ExtensionService#_doActivateExtension RoscoP.ActiveFileInStatusBar {"startup":true,"extensionId":{"value":"RoscoP.ActiveFileInStatusBar","_lower":"roscop.activefileinstatusbar"},"activationEvent":"*"}
+[2020-03-26 19:55:59.613] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/roscop.activefileinstatusbar-1.0.3/extension
+[2020-03-26 19:55:59.617] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme {"startup":true,"extensionId":{"value":"zhuangtongfa.material-theme","_lower":"zhuangtongfa.material-theme"},"activationEvent":"*"}
+[2020-03-26 19:55:59.617] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/zhuangtongfa.material-theme-3.2.4/out/extension.js
+[2020-03-26 19:55:59.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":true,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"workspaceContains:package.json"}
+[2020-03-26 19:55:59.628] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/npm/dist/main
+[2020-03-26 19:55:59.918] [exthost] [info] eager extensions activated
+[2020-03-26 19:56:02.321] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-26 19:56:02.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/configuration-editing/dist/extension
+[2020-03-26 19:56:02.330] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-03-26 19:56:02.330] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code-insiders/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2020-03-26 20:08:57.247] [exthost] [info] ExtensionService#_doActivateExtension jhartell.vscode-line-endings {"startup":false,"extensionId":{"value":"jhartell.vscode-line-endings","_lower":"jhartell.vscode-line-endings"},"activationEvent":"*"}
+[2020-03-26 20:08:57.247] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/sebastian/.vscode-insiders/extensions/jhartell.vscode-line-endings-0.2.0/out/extension

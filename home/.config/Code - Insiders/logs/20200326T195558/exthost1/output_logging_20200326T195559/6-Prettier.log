@@ -1,0 +1,102 @@
+["INFO" - 7:55:59 PM] Extension Name: "prettier-vscode".
+["INFO" - 7:55:59 PM] Extension Version: "3.20.0".
+["INFO" - 7:55:59 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 7:55:59 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 7:55:59 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 8:02:02 PM] Formatting /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+["INFO" - 8:02:02 PM] Using ignore file (if present) at /home/sebastian/dev/core-widget/.prettierignore
+["INFO" - 8:02:02 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 8:02:02 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:02:02 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:02:02 PM] Prettier Options:
+{
+  "filepath": "/home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx",
+  "parser": "typescript",
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": false,
+  "printWidth": 120,
+  "bracketSpacing": false,
+  "arrowParens": "always"
+}
+["INFO" - 8:02:02 PM] Formatting completed in 184.361109ms.
+["INFO" - 8:06:44 PM] Formatting /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+["INFO" - 8:06:44 PM] Using ignore file (if present) at /home/sebastian/dev/core-widget/.prettierignore
+["INFO" - 8:06:44 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 8:06:44 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:06:44 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:06:44 PM] Prettier Options:
+{
+  "filepath": "/home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx",
+  "parser": "typescript",
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": false,
+  "printWidth": 120,
+  "bracketSpacing": false,
+  "arrowParens": "always"
+}
+["INFO" - 8:06:44 PM] Formatting completed in 20.111936ms.
+["INFO" - 8:06:48 PM] Formatting /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+["INFO" - 8:06:48 PM] Using ignore file (if present) at /home/sebastian/dev/core-widget/.prettierignore
+["INFO" - 8:06:48 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 8:06:48 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 8:06:48 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 8:06:48 PM] Prettier Options:
+{
+  "filepath": "/home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx",
+  "parser": "typescript",
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": false,
+  "printWidth": 120,
+  "bracketSpacing": false,
+  "arrowParens": "always"
+}
+["INFO" - 8:06:48 PM] Formatting completed in 18.247928ms.

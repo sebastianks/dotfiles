@@ -1,0 +1,58 @@
+["INFO" - 7:28:50 PM] Extension Name: "prettier-vscode".
+["INFO" - 7:28:50 PM] Extension Version: "3.20.0".
+["INFO" - 7:28:50 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 7:28:50 PM] Enabling prettier for languages
+[
+  "css",
+  "graphql",
+  "html",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "json5",
+  "jsonc",
+  "less",
+  "markdown",
+  "mdx",
+  "mongo",
+  "postcss",
+  "scss",
+  "typescript",
+  "typescriptreact",
+  "vue",
+  "yaml"
+]
+["INFO" - 7:28:50 PM] Enabling prettier for range supported languages
+[
+  "graphql",
+  "javascript",
+  "javascriptreact",
+  "json",
+  "typescript",
+  "typescriptreact"
+]
+["INFO" - 7:36:30 PM] Formatting /home/sebastian/dev/core-widget/lib/PenniWidget.tsx
+["INFO" - 7:36:30 PM] Using ignore file (if present) at /home/sebastian/dev/core-widget/.prettierignore
+["INFO" - 7:36:30 PM] Loaded module 'prettier@2.0.2' from '/home/sebastian/dev/core-widget/node_modules/prettier/index.js'
+["INFO" - 7:36:30 PM] File Info:
+{
+  "ignored": false,
+  "inferredParser": "typescript"
+}
+["INFO" - 7:36:30 PM] Detected local configuration (i.e. .prettierrc or .editorconfig), VS Code configuration will not be used
+["INFO" - 7:36:30 PM] Prettier Options:
+{
+  "filepath": "/home/sebastian/dev/core-widget/lib/PenniWidget.tsx",
+  "parser": "typescript",
+  "trailingComma": "es5",
+  "tabWidth": 4,
+  "semi": true,
+  "singleQuote": true,
+  "useTabs": false,
+  "printWidth": 120,
+  "bracketSpacing": false,
+  "arrowParens": "always"
+}
+["INFO" - 7:36:31 PM] Formatting completed in 183.152731ms.
+["INFO" - 7:37:35 PM] Formatting /home/sebastian/.vscode-custom.css
+["INFO" - 7:37:35 PM] Require config set to true and no config present. Skipping file.

@@ -1,0 +1,66 @@
+Looking for git in: git
+Using git 2.26.0 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/sebastian/dev/core-widget
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse PC-593
+> git rev-parse --symbolic-full-name PC-593@{u}
+> git rev-list --left-right PC-593...refs/remotes/origin/PC-593
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse PC-593
+> git rev-parse --symbolic-full-name PC-593@{u}
+> git rev-list --left-right PC-593...refs/remotes/origin/PC-593
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :lib/layout/priceView/Button.tsx
+> git ls-files --stage -- /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+> git cat-file -s 3bd3c18072feac29f1baf041fd291503d16c0522
+> git fetch
+> git ls-files --stage -- /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+> git cat-file -s 3bd3c18072feac29f1baf041fd291503d16c0522
+> git show :lib/layout/priceView/Button.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse PC-593
+> git rev-parse --symbolic-full-name PC-593@{u}
+> git rev-list --left-right PC-593...refs/remotes/origin/PC-593
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+> git cat-file -s 3bd3c18072feac29f1baf041fd291503d16c0522
+> git show :lib/layout/priceView/Button.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse PC-593
+> git rev-parse --symbolic-full-name PC-593@{u}
+> git rev-list --left-right PC-593...refs/remotes/origin/PC-593
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git ls-files --stage -- /home/sebastian/dev/core-widget/lib/layout/priceView/Button.tsx
+> git cat-file -s 3bd3c18072feac29f1baf041fd291503d16c0522
+> git show :lib/layout/priceView/Button.tsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse PC-593
+> git rev-parse --symbolic-full-name PC-593@{u}
+> git rev-list --left-right PC-593...refs/remotes/origin/PC-593
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

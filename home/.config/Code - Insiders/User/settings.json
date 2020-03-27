@@ -1,0 +1,55 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "window.menuBarVisibility": "toggle",
+    "editor.fontFamily": "Hack",
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrapColumn": 120,
+    "sync.gist": "36c0d886d6e505a7e0e09ea31fc422f8",
+    "workbench.activityBar.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.scrollBeyondLastLine": false,
+    "editor.formatOnSave": true,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.confirmSync": false,
+    "terminal.integrated.fontSize": 12,
+    "debug.console.fontSize": 12,
+    "workbench.statusBar.visible": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "search.quickOpen.includeSymbols": true,
+    "prettier.requireConfig": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "editor.fontSize": 12,
+    "workbench.colorTheme": "Ariake Dark",
+    "editor.padding.top": 30,
+    "editor.padding.bottom": 30,
+    "explorer.confirmDelete": false,
+    "vscode_custom_css.imports": [
+        "file:///home/sebastian/.vscode-custom.css"
+    ],
+    "vscode_custom_css.policy": true,
+    "workbench.editor.tabCloseButton": "left",
+    "workbench.preferredDarkColorTheme": "Ariake Dark",
+    "workbench.iconTheme": null,
+    "workbench.tree.indent": 20,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.showTabs": false,
+    "editor.renderIndentGuides": false,
+    "files.insertFinalNewline": true,
+    "workbench.colorCustomizations": {
+        "[Ariake Dark]": {
+            "editorWhitespace.foreground": "#ffffff44"
+        }
+    },
+}
