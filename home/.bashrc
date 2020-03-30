@@ -78,7 +78,7 @@ function parse_git_dirty {
 	fi
 }
 
-export PS1="\u \w \`parse_git_branch\` "
+export PS1="\[\e[35m\]\u\[\e[m\] \[\e[33m\]\w\[\e[m\] \[\e[34m\]\`parse_git_branch\`\[\e[m\] "
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
