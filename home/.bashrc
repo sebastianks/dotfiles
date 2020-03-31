@@ -7,13 +7,12 @@ alias krc='vim ~/.config/kitty/kitty.conf'
 alias irc='vim ~/.config/i3/config'
 alias home='cd ~'
 
-alias code='code-insiders'
-
 alias gch='git checkout'
 alias gs='git status'
 alias gl='git pull'
 alias gp='git push'
 alias gpu='git push -u origin '
+alias gc='git commit'
 
 export FZF_DEFAULT_COMMAND='fd --type f'
 
