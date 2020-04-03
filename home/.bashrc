@@ -1,18 +1,40 @@
 # aliases
+
+## home
+alias home='cd ~'
+
+## list
 alias ls='ls --color=auto'
 alias ll='ls -la'
+
+## edit configs
 alias vrc='vim ~/.vimrc'
 alias brc='vim ~/.bashrc'
 alias krc='vim ~/.config/kitty/kitty.conf'
 alias irc='vim ~/.config/i3/config'
-alias home='cd ~'
+alias trc='vim ~/.tmux.config'
 
+## git
 alias gch='git checkout'
+alias gchb='git checkout -b'
 alias gs='git status'
 alias gl='git pull'
 alias gp='git push'
 alias gpu='git push -u origin '
 alias gc='git commit'
+alias ga='git add'
+alias gll='git log'
+alias gd='git diff'
+
+## npm
+alias nrd='npm run dev'
+alias nrb='npm run build'
+alias ni='npm install'
+alias nci='npm ci'
+alias nrt='npm run test'
+alias nrl='npm run lint'
+
+export TERM=xterm-256color
 
 export FZF_DEFAULT_COMMAND='fd --type f'
 
@@ -82,6 +104,10 @@ export PS1="\[\e[35m\]\u\[\e[m\] \[\e[33m\]\w\[\e[m\] \[\e[34m\]\`parse_git_bran
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 
 source <(kitty + complete setup bash)
+
+if [ -f /etc/bash_completion ]; then
+  . /etc/bash_completion
+fi
 
 source "$HOME/.homesick/repos/homeshick/homeshick.sh"
 source "$HOME/.homesick/repos/homeshick/completions/homeshick-completion.bash"

@@ -12,16 +12,13 @@ Plug 'junegunn/fzf.vim'
 Plug 'junegunn/goyo.vim'
 Plug 'mhinz/vim-signify'
 Plug 'jaredgorski/spacecamp'
+Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() } }
 call plug#end()
 
 syntax on
 
 " color base16-rebecca
 color spacecamp
-"if !has("gui_running")
-"    set t_Co=256
-"    set term=screen-256color
-"endif
 
 hi LineNr ctermbg=233
 hi SignColumn ctermbg=233
@@ -32,7 +29,7 @@ map <space> <leader>
 inoremap <C-l> <Esc>
 
 set autoindent
-" set nu
+set nu
 " set rnu
 set cul
 set ls=2
@@ -66,13 +63,6 @@ let g:NERDTreeMinimalMenu=1
 nnoremap <leader>t :!npm run test %<CR>
 nnoremap <leader>tu :!npm run test % -- -u<CR>
 
-" COC
-set nobackup
-set nowritebackup
-set updatetime=100
-set shortmess+=c
-" set signcolumn=yes
-
 " FZF
 nnoremap <leader>p :FZF<CR>
 nnoremap <leader>b :Buffers<CR>
@@ -93,6 +83,13 @@ let g:fzf_colors =
   \ 'spinner': ['fg', 'Label'],
   \ 'header':  ['fg', 'Comment'] }
 
+" COC
+set nobackup
+set nowritebackup
+set updatetime=100
+set shortmess+=c
+" set signcolumn=yes
+
 " Use tab for trigger completion with characters ahead and navigate.
 " NOTE: Use command ':verbose imap <tab>' to make sure tab is not mapped by
 " other plugin before putting this into your config.
@@ -110,7 +107,6 @@ endfunction
 " Use <c-space> to trigger completion.
 inoremap <silent><expr> <c-space> coc#refresh()
 
-
 " Use <cr> to confirm completion, `<C-g>u` means break undo chain at current
 " position. Coc only does snippet and additional edit on confirm.
 if has('patch8.1.1068')
@@ -120,11 +116,9 @@ else
   imap <expr> <cr> pumvisible() ? "\<C-y>" : "\<C-g>u\<CR>"
 endif
 
-
 " Use `[g` and `]g` to navigate diagnostics
 nmap <silent> [g <Plug>(coc-diagnostic-prev)
 nmap <silent> ]g <Plug>(coc-diagnostic-next)
-
 
 " GoTo code navigation.
 nmap <silent> gd <Plug>(coc-definition)
