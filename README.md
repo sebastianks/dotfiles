@@ -46,5 +46,5 @@ ln -s ~/dotfiles/i3status ~/.config/
 ## FAQ
 
 1. Why don't you have a `./install.sh` script?
-    1. It's very rare that you want _all_ of my dotfiles, which an install script would require. I might write a script where you can customize what you want - someday.
+    1. It's very rare that you would want _all_ of my dotfiles, which an install script would require. I might write a script where you can customize what you want - someday.
 
