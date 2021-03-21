@@ -26,4 +26,5 @@ set cursorline
 set completeopt=menuone,noselect
 set inccommand=split
 set termguicolors
+set signcolumn=yes
 
