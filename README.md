@@ -34,3 +34,11 @@ ln -s ~/dotfiles/nvim ~/.config/
 
 - [Install vim-plug](https://github.com/junegunn/vim-plug)
 - Run `:PlugInstall`
+
+### i3status
+
+Requires [https://github.com/i3/i3status](i3status).
+
+```bash
+ln -s ~/dotfiles/i3status ~/.config/
+```
