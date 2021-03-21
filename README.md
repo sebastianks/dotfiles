@@ -8,6 +8,8 @@ Probably the cleanest dotfiles you've ever seen.
 - [ranger](https://github.com/ranger/ranger)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 
+!> All of these might have some dependency requirements, which you would have to solve yourself.
+
 ## Usage
 
 ```bash
