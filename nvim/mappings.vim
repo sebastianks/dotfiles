@@ -41,3 +41,6 @@ nnoremap <Leader>B :GBranches<CR>
 nnoremap <Leader>H :History:<CR>
 nnoremap <Leader>P :FzfSwitchProject<CR>
 
+" fugitive
+nnoremap <Leader>gp :G push<CR>
+nnoremap <Leader>ga :G add .<CR>
