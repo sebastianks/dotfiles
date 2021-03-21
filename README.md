@@ -45,6 +45,14 @@ Requires [i3status](https://github.com/i3/i3status).
 ln -s ~/dotfiles/i3status ~/.config/
 ```
 
+### .Xresources
+
+Requires [Input Mono](https://input.djr.com/download/).
+
+```bash
+ln -s ~/dotfiles/.Xresources ~/
+```
+
 ## FAQ
 
 1. Why don't you have a `./install.sh` script?
