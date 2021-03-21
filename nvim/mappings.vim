@@ -24,6 +24,7 @@ nnoremap <C-k> <C-w>k
 command! Tree :!tree -I 'node_modules|build|dist|.*'
 command! So :so ~/.config/nvim/init.vim
 
+" find and replace which will prompt you for input
 nnoremap <expr> <Leader>s ":%s/" . input("Search for: ") . "/" . input("Replace with: ") . "/" . input("Flags: ")
 
 " copy / paste
