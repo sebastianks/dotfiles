@@ -5,7 +5,6 @@ xterm*faceSize: 12
 xterm*metaSendsEscape: true
 xterm*eightBitInput: false
 
-! These might also be useful depending on your monitor and personal preference:
 Xft.autohint: 0
 Xft.lcdfilter: lcddefault
 Xft.hintstyle: hintfull
@@ -13,6 +12,7 @@ Xft.hinting: 1
 Xft.antialias: 1
 Xft.rgba: rgb
 
+! One Dark
 ! special
 xterm*foreground:   #ABB2BF
 xterm*background:   #282C34
