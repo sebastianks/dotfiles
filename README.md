@@ -2,7 +2,7 @@ Probably the cleanest dotfiles you've ever seen.
 
 ## Requirements
 
-- [neovim](https://github.com/neovim/neovim)
+- [neovim](https://github.com/neovim/neovim) (>=v0.5)
 - [fzf](https://github.com/junegunn/fzf)
 - [fasd](https://github.com/clvv/fasd)
 - [ranger](https://github.com/ranger/ranger)
