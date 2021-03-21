@@ -22,6 +22,8 @@ nnoremap <C-j> <C-w>j
 nnoremap <C-k> <C-w>k
 
 command! Tree :!tree -I 'node_modules|build|dist|.*'
+
+" source config
 command! So :so ~/.config/nvim/init.vim
 
 " find and replace which will prompt you for input
