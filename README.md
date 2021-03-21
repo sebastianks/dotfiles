@@ -42,3 +42,9 @@ Requires [i3status](https://github.com/i3/i3status).
 ```bash
 ln -s ~/dotfiles/i3status ~/.config/
 ```
+
+## FAQ
+
+1. Why don't you create a `./install.sh` script?
+    1. It's very rare that you want _all_ of my dotfiles, which an install script would require. I might write a script where you can customize what you want - someday.
+
