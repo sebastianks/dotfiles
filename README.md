@@ -5,6 +5,7 @@ Probably the cleanest dotfiles you've ever seen.
 - [neovim](https://github.com/neovim/neovim)
 - [fzf](https://github.com/junegunn/fzf)
 - [fasd](https://github.com/clvv/fasd)
+- [ranger](https://github.com/ranger/ranger)
 
 ## Usage
 
