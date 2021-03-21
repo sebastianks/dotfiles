@@ -16,6 +16,8 @@ Probably the cleanest dotfiles you've ever seen.
 git clone github.com/sebkolind/dotfiles ~/dotfiles
 ```
 
+Now, you can either copy or symlink files and directories to the location they need to be in. I prefer and recommend symlinks since those will be updated when you pull new changes from origin.
+
 ### bash
 
 ```bash
