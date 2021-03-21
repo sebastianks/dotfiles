@@ -31,7 +31,7 @@ vnoremap <Leader>y "+y
 nnoremap <Leader>p "+p
 
 " fzf
-nnoremap <Leader>f :FZF<CR>
+nnoremap <Leader>f :Files<CR>
 nnoremap <Leader>b :Buffers<CR>
 nnoremap <Leader>F :Ag<CR>
 nnoremap <Leader>B :GBranches<CR>
