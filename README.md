@@ -2,11 +2,11 @@ Probably the cleanest dotfiles you've ever seen.
 
 ## Requirements
 
-- [neovim](https://github.com/neovim/neovim) (>=v0.5)
-- [fzf](https://github.com/junegunn/fzf)
-- [fasd](https://github.com/clvv/fasd)
-- [ranger](https://github.com/ranger/ranger)
-- [lazygit](https://github.com/jesseduffield/lazygit)
+- https://github.com/neovim/neovim (>=v0.5)
+- https://github.com/junegunn/fzf
+- https://github.com/clvv/fasd
+- https://github.com/ranger/ranger
+- https://github.com/jesseduffield/lazygit
 
 > All of these might have some dependency requirements, which you would have to solve yourself.
 
