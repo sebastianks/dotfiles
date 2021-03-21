@@ -13,7 +13,7 @@ Probably the cleanest dotfiles you've ever seen.
 ## Usage
 
 ```bash
-git clone github.com/sebastianks/dotfiles ~/dotfiles
+git clone github.com/sebkolind/dotfiles ~/dotfiles
 ```
 
 ### bash
