@@ -6,6 +6,7 @@ Probably the cleanest dotfiles you've ever seen.
 - [fzf](https://github.com/junegunn/fzf)
 - [fasd](https://github.com/clvv/fasd)
 - [ranger](https://github.com/ranger/ranger)
+- [lazygit](https://github.com/jesseduffield/lazygit)
 
 ## Usage
 
