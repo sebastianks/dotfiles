@@ -37,7 +37,7 @@ ln -s ~/dotfiles/nvim ~/.config/
 
 ### i3status
 
-Requires [https://github.com/i3/i3status](i3status).
+Requires [i3status](https://github.com/i3/i3status).
 
 ```bash
 ln -s ~/dotfiles/i3status ~/.config/
