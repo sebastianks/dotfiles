@@ -1,6 +1,4 @@
-# dotfiles
-
-These are my humble dotfiles.
+Probably the cleanest dotfiles you've ever seen.
 
 ## Usage
 
