@@ -26,6 +26,8 @@ ln -s ~/dotfiles/bashrc.d ~/
 
 ### neovim
 
+Requires [vim-plug](https://github.com/junegunn/vim-plug).
+
 ```bash
 ln -s ~/dotfiles/nvim ~/.config/
 ```
