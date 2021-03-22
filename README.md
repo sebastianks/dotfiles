@@ -19,6 +19,14 @@ git clone github.com/sebkolind/dotfiles $HOME/dotfiles
 
 Now, you can either copy or symlink files and directories to the location they need to be in. I prefer and recommend symlinks since those will be updated when you pull new changes from origin.
 
+### Fonts
+
+[Input](https://input.djr.com/download/) is my font of choice, and is included in Mono, Sans and Serif. I don't think symlinking fonts makes any sense, since changes to a font is rare.
+
+```bash
+cp -R $HOME/dotfiles/.fonts/* $HOME/.fonts/.
+```
+
 ### bash
 
 ```bash
@@ -40,7 +48,7 @@ ln -s $HOME/dotfiles/nvim $HOME/.config/
 
 ### i3 & i3status
 
-Requires [i3](https://github.com/i3/i3) and [i3status](https://github.com/i3/i3status).
+Requires [i3](https://github.com/i3/i3), [i3status](https://github.com/i3/i3status) and [Input Sans](https://input.djr.com/download/).
 
 ```bash
 ln -s $HOME/dotfiles/i3 $HOME/.config/
