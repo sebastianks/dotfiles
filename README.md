@@ -40,8 +40,7 @@ ln -s $HOME/dotfiles/nvim $HOME/.config/
 
 ### i3 & i3status
 
-Requires [i3](https://github.com/i3/i3).
-Requires [i3status](https://github.com/i3/i3status).
+Requires [i3](https://github.com/i3/i3) and [i3status](https://github.com/i3/i3status).
 
 ```bash
 ln -s $HOME/dotfiles/i3 $HOME/.config/
