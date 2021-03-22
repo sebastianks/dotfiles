@@ -38,13 +38,17 @@ ln -s $HOME/dotfiles/nvim $HOME/.config/
 - [Install vim-plug](https://github.com/junegunn/vim-plug)
 - Run `:PlugInstall`
 
-### i3status
+### i3 & i3status
 
+Requires [i3](https://github.com/i3/i3).
 Requires [i3status](https://github.com/i3/i3status).
 
 ```bash
+ln -s $HOME/dotfiles/i3 $HOME/.config/
 ln -s $HOME/dotfiles/i3status $HOME/.config/
 ```
+
+You most likely have to change some paths and variables in `$HOME/dotfiles/i3status/config` to match your hardware.
 
 ### .Xresources
 
