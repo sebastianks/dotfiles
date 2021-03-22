@@ -14,7 +14,7 @@ Probably the cleanest dotfiles you've ever seen.
 ## Usage
 
 ```bash
-git clone github.com/sebkolind/dotfiles ~/dotfiles
+git clone github.com/sebkolind/dotfiles $HOME/dotfiles
 ```
 
 Now, you can either copy or symlink files and directories to the location they need to be in. I prefer and recommend symlinks since those will be updated when you pull new changes from origin.
@@ -22,9 +22,9 @@ Now, you can either copy or symlink files and directories to the location they n
 ### bash
 
 ```bash
-ln -s ~/dotfiles/.bashrc ~/
-ln -s ~/dotfiles/.bash_profile ~/
-ln -s ~/dotfiles/bashrc.d ~/
+ln -s $HOME/dotfiles/.bashrc $HOME/
+ln -s $HOME/dotfiles/.bash_profile $HOME/
+ln -s $HOME/dotfiles/bashrc.d $HOME/
 ```
 
 ### neovim
@@ -32,7 +32,7 @@ ln -s ~/dotfiles/bashrc.d ~/
 Requires [vim-plug](https://github.com/junegunn/vim-plug).
 
 ```bash
-ln -s ~/dotfiles/nvim ~/.config/
+ln -s $HOME/dotfiles/nvim $HOME/.config/
 ```
 
 - [Install vim-plug](https://github.com/junegunn/vim-plug)
@@ -43,7 +43,7 @@ ln -s ~/dotfiles/nvim ~/.config/
 Requires [i3status](https://github.com/i3/i3status).
 
 ```bash
-ln -s ~/dotfiles/i3status ~/.config/
+ln -s $HOME/dotfiles/i3status $HOME/.config/
 ```
 
 ### .Xresources
@@ -51,7 +51,7 @@ ln -s ~/dotfiles/i3status ~/.config/
 Requires [Input Mono](https://input.djr.com/download/).
 
 ```bash
-ln -s ~/dotfiles/.Xresources ~/
+ln -s $HOME/dotfiles/.Xresources $HOME/
 ```
 
 ## FAQ
