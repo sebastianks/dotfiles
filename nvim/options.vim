@@ -17,6 +17,7 @@ set smartindent
 set wildmenu
 set wildmode=longest:full,full
 set list
+set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:˪,precedes:«,extends:»
 set timeoutlen=1000
 set ttimeoutlen=0
 set nowrap

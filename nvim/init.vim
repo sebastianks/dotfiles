@@ -14,6 +14,7 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-compe'
 Plug 'joshdick/onedark.vim'
+Plug 'wellle/targets.vim'
 call plug#end()
 
 filetype plugin indent on
