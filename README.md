@@ -65,6 +65,8 @@ Requires [Input Mono](https://input.djr.com/download/).
 ln -s $HOME/dotfiles/.Xresources $HOME/
 ```
 
+---
+
 ## FAQ
 
 1. Why don't you have a `./install.sh` script?
