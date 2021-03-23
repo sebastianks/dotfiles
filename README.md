@@ -28,7 +28,7 @@ Now, you can either copy or symlink files and directories to the location they n
 cp -R $HOME/dotfiles/.fonts/* $HOME/.fonts/.
 ```
 
-### bash
+### Bash
 
 Requires [oh-my-bash](https://github.com/ohmybash/oh-my-bash).
 
@@ -38,7 +38,7 @@ ln -s $HOME/dotfiles/.bash_profile $HOME/
 ln -s $HOME/dotfiles/bashrc.d $HOME/
 ```
 
-### neovim
+### Neovim
 
 Requires [vim-plug](https://github.com/junegunn/vim-plug).
 
