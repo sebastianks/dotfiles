@@ -5,7 +5,7 @@ general {
 }
 
 order += "wireless wlan0"
-order += "ethernet eth0"
+order += "ethernet enp8s0"
 order += "battery 0"
 order += "cpu_temperature 0"
 order += "disk /"
@@ -20,7 +20,7 @@ wireless wlan0 {
     separator_block_width = 5
 }
 
-ethernet eth0 {
+ethernet enp8s0 {
     format_up = "[E: %ip (%speed)]"
     format_down = "[E: down]"
     separator = false
