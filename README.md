@@ -8,6 +8,7 @@ Probably the cleanest dotfiles you've ever seen.
 - [fasd](https://github.com/clvv/fasd)
 - [ranger](https://github.com/ranger/ranger)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
 > All of these might have some dependency requirements which you would have to solve yourself.
 
@@ -28,6 +29,8 @@ cp -R $HOME/dotfiles/.fonts/* $HOME/.fonts/.
 ```
 
 ### bash
+
+Requires [oh-my-bash](https://github.com/ohmybash/oh-my-bash).
 
 ```bash
 ln -s $HOME/dotfiles/.bashrc $HOME/
