@@ -51,7 +51,7 @@ bindsym $mod+d exec --no-startup-id dmenu_run
 # bindcode $mod+40 exec --no-startup-id i3-dmenu-desktop
 
 # lock the screen
-bindsym $mod+x exec i3lock
+bindsym $mod+x exec i3lock -c 000000
 
 # focus urgent window
 bindsym $mod+a [urgent=latest] focus

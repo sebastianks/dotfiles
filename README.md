@@ -8,6 +8,7 @@ Probably the cleanest dotfiles you've ever seen.
 - [fasd](https://github.com/clvv/fasd)
 - [ranger](https://github.com/ranger/ranger)
 - [lazygit](https://github.com/jesseduffield/lazygit)
+- [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
 > All of these might have some dependency requirements which you would have to solve yourself.
 
@@ -27,7 +28,9 @@ Now, you can either copy or symlink files and directories to the location they n
 cp -R $HOME/dotfiles/.fonts/* $HOME/.fonts/.
 ```
 
-### bash
+### Bash
+
+Requires [oh-my-bash](https://github.com/ohmybash/oh-my-bash).
 
 ```bash
 ln -s $HOME/dotfiles/.bashrc $HOME/
@@ -35,7 +38,7 @@ ln -s $HOME/dotfiles/.bash_profile $HOME/
 ln -s $HOME/dotfiles/bashrc.d $HOME/
 ```
 
-### neovim
+### Neovim
 
 Requires [vim-plug](https://github.com/junegunn/vim-plug).
 
@@ -64,6 +67,8 @@ Requires [Input Mono](https://input.djr.com/download/).
 ```bash
 ln -s $HOME/dotfiles/.Xresources $HOME/
 ```
+
+---
 
 ## FAQ
 
