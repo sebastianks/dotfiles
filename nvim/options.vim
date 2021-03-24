@@ -3,6 +3,7 @@
 set nocompatible
 set showmatch
 set ignorecase
+set smartcase
 set mouse=a
 set hlsearch
 set incsearch
