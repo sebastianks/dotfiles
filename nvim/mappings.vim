@@ -11,6 +11,7 @@ inoremap <silent><expr> <C-d>     compe#scroll({ 'delta': -4 })
 map <Space> <Leader>
 map <C-s> :w<CR>
 map <C-q> :q<CR>
+map <Leader>. :w<CR>
 
 inoremap <C-l> <Esc>
 
