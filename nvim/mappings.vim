@@ -41,3 +41,6 @@ nnoremap <Leader>P :FzfSwitchProject<CR>
 " fugitive
 nnoremap <Leader>gp :G push<CR>
 nnoremap <Leader>ga :G add .<CR>
+
+" daf (delete around function)
+nnoremap <Leader>daf da{dd<CR>

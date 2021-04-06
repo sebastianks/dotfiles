@@ -1,7 +1,7 @@
 Xft.dpi: 96
 
 xterm*faceName: Input Mono:style=Regular
-xterm*faceSize: 12
+xterm*faceSize: 10
 xterm*metaSendsEscape: true
 xterm*eightBitInput: false
 
