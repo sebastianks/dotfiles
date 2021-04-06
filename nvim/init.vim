@@ -15,6 +15,7 @@ Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-compe'
 Plug 'joshdick/onedark.vim'
 Plug 'wellle/targets.vim'
+Plug 'lambdalisue/suda.vim'
 call plug#end()
 
 filetype plugin indent on
