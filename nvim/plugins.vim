@@ -31,7 +31,7 @@ let g:compe.source.nvim_lua = v:true
 let g:compe.source.vsnip = v:true
 
 " fzf & friends
-let g:fzfSwitchProjectWorkspaces = [ '~/Work' ]
+let g:fzfSwitchProjectWorkspaces = [ '~/Work', '~/Code' ]
 let g:fzfSwitchProjectProjects = [ '~/dotfiles/nvim' ]
 let g:fzfSwitchProjectGitInitBehavior = 'none'
 
