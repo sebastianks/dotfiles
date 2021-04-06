@@ -31,11 +31,11 @@ let g:compe.source.nvim_lua = v:true
 let g:compe.source.vsnip = v:true
 
 " fzf & friends
-let g:fzfSwitchProjectWorkspaces = [ '~/Work' ]
+let g:fzfSwitchProjectWorkspaces = [ '~/Work', '~/Code' ]
 let g:fzfSwitchProjectProjects = [ '~/dotfiles/nvim' ]
-let g:fzfSwitchProjectGitInitBehavior = 'none'
+let g:fzfSwitchProjectGitInitBehavior = 'ask'
 
-let g:fzf_layout = { 'down': '40%' }
+let g:fzf_layout = { 'window': { 'width': 0.8, 'height': 0.6 } }
 let g:fzf_colors =
     \ { 'fg':      ['fg', 'Normal'],
       \ 'bg':      ['bg', 'Normal'],
