@@ -5,7 +5,7 @@ set showmatch
 set ignorecase
 set smartcase
 set mouse=a
-set hlsearch
+set nohlsearch
 set incsearch
 set tabstop=4
 set softtabstop=4
@@ -17,7 +17,7 @@ set relativenumber
 set smartindent
 set wildmenu
 set wildmode=longest:full,full
-set list
+set nolist
 set listchars=tab:→\ ,space:·,nbsp:␣,trail:•,eol:˪,precedes:«,extends:»
 set timeoutlen=1000
 set ttimeoutlen=0
@@ -28,5 +28,5 @@ set cursorline
 set completeopt=menuone,noselect
 set inccommand=split
 set termguicolors
-set signcolumn=yes
+set signcolumn=number
 

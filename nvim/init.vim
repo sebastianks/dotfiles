@@ -7,21 +7,22 @@ Plug 'junegunn/fzf.vim'
 Plug 'stsewd/fzf-checkout.vim'
 Plug 'benwainwright/fzf-project'
 Plug 'ojroques/nvim-lspfuzzy'
-Plug 'ojroques/nvim-hardline'
-Plug 'mhinz/vim-signify'
 Plug 'leafgarland/typescript-vim'
 Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-compe'
-Plug 'joshdick/onedark.vim'
 Plug 'wellle/targets.vim'
-Plug 'lambdalisue/suda.vim'
+Plug 'jiangmiao/auto-pairs'
+Plug 'jaredgorski/SpaceCamp'
 call plug#end()
 
 filetype plugin indent on
 syntax on
 
-colorscheme onedark
+set background=dark
+colorscheme spacecamp
+
+hi! Normal ctermbg=NONE guibg=NONE
 
 source ~/.config/nvim/options.vim
 source ~/.config/nvim/autocmd.vim

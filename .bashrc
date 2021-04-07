@@ -1,13 +1,13 @@
 export OSH=/home/sebastian/.oh-my-bash
+export XDG_CONFIG_HOME="$HOME/.config"
 
-OSH_THEME="font"
+OSH_THEME="kitsune"
 DISABLE_AUTO_UPDATE="true"
 ENABLE_CORRECTION="true"
 COMPLETION_WAITING_DOTS="true"
 
 completions=(
   git
-  composer
   ssh
 )
 
