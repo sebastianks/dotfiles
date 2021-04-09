@@ -15,6 +15,8 @@ Plug 'wellle/targets.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'jaredgorski/SpaceCamp'
 Plug 'mattn/emmet-vim'
+Plug 'SirVer/ultisnips'
+Plug 'honza/vim-snippets'
 call plug#end()
 
 filetype plugin indent on
