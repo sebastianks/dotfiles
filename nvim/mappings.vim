@@ -44,3 +44,4 @@ nnoremap <Leader>ga :G add .<CR>
 
 " daf (delete around function)
 nnoremap <Leader>daf da{dd<CR>
+
