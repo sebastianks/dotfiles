@@ -14,6 +14,7 @@ Plug 'hrsh7th/nvim-compe'
 Plug 'wellle/targets.vim'
 Plug 'jiangmiao/auto-pairs'
 Plug 'jaredgorski/SpaceCamp'
+Plug 'mattn/emmet-vim'
 call plug#end()
 
 filetype plugin indent on
