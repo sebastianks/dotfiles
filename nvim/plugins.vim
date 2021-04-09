@@ -32,7 +32,7 @@ let g:compe.source.vsnip = v:true
 
 " fzf & friends
 let g:fzfSwitchProjectWorkspaces = [ '~/Work', '~/Code' ]
-let g:fzfSwitchProjectProjects = [ '~/dotfiles/nvim' ]
+let g:fzfSwitchProjectProjects = [ '~/dotfiles/nvim', '~/Notes' ]
 let g:fzfSwitchProjectGitInitBehavior = 'ask'
 
 let g:fzf_layout = { 'window': { 'width': 0.8, 'height': 0.6 } }
@@ -51,3 +51,8 @@ let g:fzf_colors =
       \ 'spinner': ['fg', 'Label'],
       \ 'header':  ['fg', 'Comment'] }
 
+" ultisnips
+let g:UltiSnipsExpandTrigger="<TAB>"
+let g:UltiSnipsListSnippets="<C-tab>"
+let g:UltiSnipsJumpForwardTrigger="<C-j>"
+let g:UltiSnipsJumpBackwardTrigger="<C-k>"
