@@ -45,7 +45,7 @@ bindsym $mod+Return exec kitty
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run
+bindsym $mod+d exec --no-startup-id dmenu_run -l 6 -h 24 -c
 
 # lock the screen
 bindsym $mod+x exec i3lock -c 000000
@@ -153,4 +153,6 @@ new_window 1pixel
 bar {
         status_command i3status
         position top
+        tray_output DP1
+        tray_output eDP1
 }
