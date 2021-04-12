@@ -10,5 +10,13 @@ export FZF_DEFAULT_COMMAND="fd --type f"
 export FZF_CTRL_T_COMMAND="$FZF_DEFAULT_COMMAND"
 export FZF_ALT_C_COMMAND="fd -t d . $HOME"
 
-source /usr/share/fzf/key-bindings.bash
+ARCH_BINDINGS=/usr/share/fzf/key-bindings.bash
+if [ -f "$ARCH_BINDINGS" ]; then
+    source /usr/share/fzf/key-bindings.bash
+fi
+
+UBUNTU_BINDINGS=/usr/share/doc/fzf/examples/key-bindings.bash
+if [ -f "$UBUNTU_BINDINGS" ]; then
+    source /usr/share/doc/fzf/examples/key-bindings.bash 
+fi
 
