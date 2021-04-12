@@ -17,6 +17,7 @@ Plug 'jaredgorski/SpaceCamp'
 Plug 'mattn/emmet-vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'lambdalisue/suda.vim'
 call plug#end()
 
 filetype plugin indent on
