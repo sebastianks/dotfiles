@@ -1,5 +1,6 @@
 lua << EOF
 require'lspconfig'.tsserver.setup{}
+require'lspconfig'.vuels.setup{}
 
 local nvim_lsp = require('lspconfig')
 
@@ -19,7 +20,7 @@ local on_attach = function(client, bufnr)
     buf_set_keymap('n', '<leader>a', '<cmd>lua vim.lsp.buf.code_action()<CR>', opts)
 end
 
-local servers = { "tsserver" }
+local servers = { "tsserver", "vuels" }
 for _, lsp in ipairs(servers) do
   nvim_lsp[lsp].setup { on_attach = on_attach }
 end
