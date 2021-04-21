@@ -35,7 +35,7 @@ let g:fzfSwitchProjectWorkspaces = [ '~/Work', '~/Code' ]
 let g:fzfSwitchProjectProjects = [ '~/dotfiles/nvim', '~/Notes' ]
 let g:fzfSwitchProjectGitInitBehavior = 'ask'
 
-let g:fzf_layout = { 'window': { 'width': 0.8, 'height': 0.6 } }
+let g:fzf_layout = { 'down': '40%' }
 let g:fzf_colors =
     \ { 'fg':      ['fg', 'Normal'],
       \ 'bg':      ['bg', 'Normal'],
