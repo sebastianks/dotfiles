@@ -17,7 +17,7 @@ Plug 'mattn/emmet-vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'lambdalisue/suda.vim'
-Plug 'tmsvg/pear-tree'
+Plug 'cohama/lexima.vim'
 call plug#end()
 
 filetype plugin indent on

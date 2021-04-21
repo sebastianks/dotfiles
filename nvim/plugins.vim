@@ -56,3 +56,8 @@ let g:UltiSnipsExpandTrigger="<TAB>"
 let g:UltiSnipsListSnippets="<C-tab>"
 let g:UltiSnipsJumpForwardTrigger="<C-j>"
 let g:UltiSnipsJumpBackwardTrigger="<C-k>"
+
+" lexima
+let g:lexima_enable_newline_rules=1
+let g:lexima_enable_endwise_rules=1
+
