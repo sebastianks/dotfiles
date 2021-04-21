@@ -31,4 +31,5 @@ set termguicolors
 set signcolumn=number
 set hidden
 set noswapfile
+set statusline=%!fugitive#head()
 
