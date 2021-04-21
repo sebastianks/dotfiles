@@ -12,12 +12,12 @@ Plug 'prettier/vim-prettier', { 'do': 'yarn install' }
 Plug 'neovim/nvim-lspconfig'
 Plug 'hrsh7th/nvim-compe'
 Plug 'wellle/targets.vim'
-Plug 'jiangmiao/auto-pairs'
 Plug 'jaredgorski/SpaceCamp'
 Plug 'mattn/emmet-vim'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'lambdalisue/suda.vim'
+Plug 'tmsvg/pear-tree'
 call plug#end()
 
 filetype plugin indent on
