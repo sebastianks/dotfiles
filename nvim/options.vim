@@ -30,4 +30,5 @@ set inccommand=split
 set termguicolors
 set signcolumn=number
 set hidden
+set noswapfile
 
