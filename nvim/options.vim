@@ -33,5 +33,5 @@ set hidden
 set noswapfile
 set laststatus=2
 set statusline=[%{fugitive#head()}]\ 
-set statusline+=%f\ 
+set statusline+=%f%m 
 
