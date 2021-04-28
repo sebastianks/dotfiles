@@ -28,6 +28,7 @@ source $HOME/bashrc.d/plugins.sh
 export LANG=en_US.UTF-8
 export EDITOR='nvim'
 export PATH="$HOME/.node_modules/bin:$PATH"
+export TERM='screen-256color'
 
 # cycle through completions
 bind TAB:menu-complete
