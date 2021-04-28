@@ -18,6 +18,7 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'lambdalisue/suda.vim'
 Plug 'cohama/lexima.vim'
+Plug 'folke/lsp-trouble.nvim'
 Plug 'gruvbox-community/gruvbox'
 call plug#end()
 

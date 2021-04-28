@@ -45,3 +45,6 @@ nnoremap <Leader>ga :G add .<CR>
 " daf (delete around function)
 nnoremap <Leader>daf da{dd<CR>
 
+" lsp-trouble
+nnoremap <Leader>xx <CMD>LspTroubleToggle<CR>
+
