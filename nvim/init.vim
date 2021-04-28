@@ -18,13 +18,15 @@ Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
 Plug 'lambdalisue/suda.vim'
 Plug 'cohama/lexima.vim'
+Plug 'gruvbox-community/gruvbox'
 call plug#end()
 
 filetype plugin indent on
 syntax on
 
 set background=dark
-colorscheme spacecamp
+colorscheme gruvbox
+let g:gruvbox_contrast_dark='hard'
 
 hi! Normal ctermbg=NONE guibg=NONE
 
