@@ -20,6 +20,7 @@ Plug 'lambdalisue/suda.vim'
 Plug 'cohama/lexima.vim'
 Plug 'folke/lsp-trouble.nvim'
 Plug 'gruvbox-community/gruvbox'
+Plug 'NLKNguyen/papercolor-theme'
 Plug 'maxmellon/vim-jsx-pretty'
 call plug#end()
 
