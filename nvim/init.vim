@@ -27,16 +27,11 @@ call plug#end()
 filetype plugin indent on
 syntax on
 
-set background=dark
-colorscheme gruvbox
-let g:gruvbox_contrast_dark='hard'
-
-hi! Normal ctermbg=NONE guibg=NONE
-
 source ~/.config/nvim/options.vim
 source ~/.config/nvim/autocmd.vim
 source ~/.config/nvim/plugins.vim
 source ~/.config/nvim/mappings.vim
 source ~/.config/nvim/lua.vim
 source ~/.config/nvim/misc.vim
+source ~/.config/nvim/colors.vim
 
