@@ -24,7 +24,6 @@ set ttimeoutlen=0
 set nowrap
 set foldmethod=indent
 set foldlevel=99
-set cursorline
 set completeopt=menuone,noselect
 set inccommand=split
 set termguicolors
