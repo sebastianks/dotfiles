@@ -26,7 +26,7 @@ source $HOME/bashrc.d/alias.sh
 source $HOME/bashrc.d/plugins.sh
 
 export LANG=en_US.UTF-8
-export EDITOR='nvim'
+export EDITOR='nano'
 export PATH="$HOME/.node_modules/bin:$PATH"
 export TERM='screen-256color'
 
