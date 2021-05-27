@@ -45,6 +45,13 @@ ln -s $HOME/dotfiles/.Xresources $HOME/
 
 ---
 
+## TODO
+
+1. Add Sublime Text config
+2. Add Lazygit config
+
+---
+
 ## FAQ
 
 1. Why don't you have a `./install.sh` script?
