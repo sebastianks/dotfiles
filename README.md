@@ -2,7 +2,6 @@ Probably the cleanest dotfiles you've ever seen.
 
 ## Requirements
 
-- [neovim](https://github.com/neovim/neovim) (>=v0.5)
 - [fzf](https://github.com/junegunn/fzf)
   - [fd](https://github.com/sharkdp/fd)
 - [fasd](https://github.com/clvv/fasd)
@@ -36,17 +35,6 @@ ln -s $HOME/dotfiles/.bashrc $HOME/
 ln -s $HOME/dotfiles/.bash_profile $HOME/
 ln -s $HOME/dotfiles/bashrc.d $HOME/
 ```
-
-### Neovim
-
-Requires [vim-plug](https://github.com/junegunn/vim-plug).
-
-```bash
-ln -s $HOME/dotfiles/nvim $HOME/.config/
-```
-
-- [Install vim-plug](https://github.com/junegunn/vim-plug)
-- Run `:PlugInstall`
 
 ### i3 & i3status
 
