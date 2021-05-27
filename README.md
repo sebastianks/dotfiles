@@ -6,7 +6,6 @@ Probably the cleanest dotfiles you've ever seen.
 - [fzf](https://github.com/junegunn/fzf)
   - [fd](https://github.com/sharkdp/fd)
 - [fasd](https://github.com/clvv/fasd)
-- [ranger](https://github.com/ranger/ranger)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
@@ -73,5 +72,4 @@ ln -s $HOME/dotfiles/.Xresources $HOME/
 ## FAQ
 
 1. Why don't you have a `./install.sh` script?
-    1. It's very rare that you would want _all_ of my dotfiles, which an install script would require. I might write a script where you can customize what to install - someday.
-
+   1. It's very rare that you would want _all_ of my dotfiles, which an install script would require. I might write a script where you can customize what to install - someday.
