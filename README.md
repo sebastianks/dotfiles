@@ -4,7 +4,6 @@ Probably the cleanest dotfiles you've ever seen.
 
 - [fzf](https://github.com/junegunn/fzf)
   - [fd](https://github.com/sharkdp/fd)
-- [fasd](https://github.com/clvv/fasd)
 - [lazygit](https://github.com/jesseduffield/lazygit)
 - [oh-my-bash](https://github.com/ohmybash/oh-my-bash)
 
