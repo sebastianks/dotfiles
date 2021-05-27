@@ -1,11 +1,8 @@
 # edit config files
-alias vrc="vim ~/.config/nvim/init.vim"
-alias brc="vim ~/.bashrc"
+alias brc="subl ~/.bashrc"
 
 # common used programs
 alias lg="lazygit"
-alias ranger=". ranger"
-alias vim="nvim"
 
 # npm scripts
 alias nrd="npm run dev"
