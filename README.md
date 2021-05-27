@@ -36,17 +36,6 @@ ln -s $HOME/dotfiles/.bash_profile $HOME/
 ln -s $HOME/dotfiles/bashrc.d $HOME/
 ```
 
-### i3 & i3status
-
-Requires [i3](https://github.com/i3/i3), [i3status](https://github.com/i3/i3status) and [Input Sans](https://input.djr.com/download/).
-
-```bash
-ln -s $HOME/dotfiles/i3 $HOME/.config/
-ln -s $HOME/dotfiles/i3status $HOME/.config/
-```
-
-You most likely have to change some paths and variables in `$HOME/dotfiles/i3status/config` to match your hardware.
-
 ### .Xresources
 
 Requires [Input Mono](https://input.djr.com/download/).
